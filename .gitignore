@@ -1,0 +1,6 @@
+#.gitignore file for sth
+
+*.swp
+.DS_Store
+/bookmark_stuff
+.config.ru #its an extra config, not sure if text edit did it right... 

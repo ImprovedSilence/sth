@@ -1,0 +1,103 @@
+
+body
+{
+  background-image:url("images/filliment.png");
+  background-repeat:no-repeat;
+  background-position:300px 40px; 
+  background-margin-left: 200px; 
+  background-color: #FFFFFF;
+  color: #CC3333; /* or #003422 */
+}
+
+.home
+{
+/*  background-position: 300px 150px; */
+  background-position: center 150px;
+}
+
+ul
+{
+  list-style-type: none;
+  font-style: sans-serif;
+  margin-left: 30px;
+}
+
+h1
+{
+  font: 36pt 'american typewriter', 'courier new', courier,  arial;
+  font-style: bold;
+  text-align: left;
+  margin-left: 79px;
+}
+ 
+h1.home
+{
+  margin-left:30px;
+
+}
+
+h1.type
+{
+  font: 24pt 'american typewriter', 'courier new';
+  font-style: bold;
+  text-align: left;
+  margin-left: 15px;
+}
+
+/*use for caption of Photography (Improved Silence) */
+h3.caption
+{
+  margin-left: 25px;
+}
+
+p
+{
+  margin-left: 20px;
+}
+
+ul.mono
+{
+  list-style-type: none;
+  font-family:  serif,  courier, "courier new"; 
+  margin-left: 30px;
+  
+}
+
+a:visited
+{
+  font-weight=bold;
+  font: 24pt;
+}
+
+
+.pic
+{
+  text-align: center;
+  target="_blank";
+}
+
+img
+{
+  padding-bottom:15px;
+}
+
+div.sidebar
+{
+  font-size: 12pt;
+  font-color: purple;
+  text-align: left;
+  margin: 30px;
+  border-width: 2px;
+}
+
+.sitemap
+{
+	font-size: 12pt;
+	font-color: red;
+	text-align: left;
+	margin: 15px 40px;
+	border: 2px solid black;
+	padding: 2px 8px;
+}
+
+
